@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
 <h3 align="center">🚀 Backend Developer </h3>
----
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **Distributed Systems**  
