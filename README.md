@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
-<h3 align="center">🚀 Certified Google Cloud Engineer | Backend Developer | Distributed Systems Enthusiast</h3>
-
-<p align="center">
-  <a href="https://twitter.com/prashantzsharma"><img src="https://img.shields.io/twitter/follow/prashantzsharma?style=for-the-badge" alt="Twitter Follow"/></a>
-  <a href="https://linkedin.com/in/prashant0000"><img src="https://img.shields.io/badge/LinkedIn-Prashant%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:kumar.prashant.cv@gmail.com"><img src="https://img.shields.io/badge/Email-kumar.prashant.cv%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
-
+<h3 align="center">🚀 Backend Developer </h3>
 ---
 
 ### 👨‍💻 About Me
